@@ -12,6 +12,7 @@
 - https://github.com/Zipozz/Credit-Card-Number-Validator/issues/2
 
 **Описание процесса тестирования**
+
 В процессе тестирования использовались следующие артефакты*:
 
 [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
