@@ -10,6 +10,7 @@
 
 - https://github.com/Zipozz/Credit-Card-Number-Validator/issues/1
 - https://github.com/Zipozz/Credit-Card-Number-Validator/issues/2
+- https://github.com/Zipozz/Credit-Card-Number-Validator/issues/3
 
 **Описание процесса тестирования**
 
