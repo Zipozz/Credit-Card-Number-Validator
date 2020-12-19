@@ -8,8 +8,8 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-https://github.com/Zipozz/Credit-Card-Number-Validator/issues/1
-https://github.com/Zipozz/Credit-Card-Number-Validator/issues/2
+- https://github.com/Zipozz/Credit-Card-Number-Validator/issues/1
+- https://github.com/Zipozz/Credit-Card-Number-Validator/issues/2
 
 **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты*:
